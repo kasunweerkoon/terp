@@ -1,4 +1,4 @@
-# TERP: Terrain Elevation-based Robot Path Planning
+# [TERP: Terrain Elevation-based Robot Path Planning](https://arxiv.org/pdf/2109.05120.pdf)
 
 We present a novel formulation to reliably navigate a ground robot in uneven outdoor environments. Our hybrid architecture combines intermediate output from a DRL network with attention with input elevation data to obtain a cost-map to perform local navigation tasks. We generate locally least-cost waypoints on the obtained cost-map and integrate our approach with an existing DRL method that computes dynamically feasible robot velocities.
 
@@ -8,7 +8,7 @@ A video summary and demonstrations of the system can be found [here](https://you
 
 This implementation builds on the Robotic Operating System (ROS-Melodic). 
 
-* Grid Map (grid map library for mobile robots)
+* [Grid Map](https://github.com/ANYbotics/grid_map) (grid map library for mobile robots)
 * ARL Unity Simulator              
 
 # Environment
