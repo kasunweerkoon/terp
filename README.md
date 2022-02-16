@@ -4,10 +4,6 @@ We present a novel formulation to reliably navigate a ground robot in uneven out
 
 A video summary and demonstrations of the system can be found [here](https://youtu.be/Q9yWLKJ1CdU)
 
-
-https://user-images.githubusercontent.com/72771247/141846766-b9259b59-35bd-4b84-a072-a8895f884794.mp4
-
-
 # Dependencies
 
 This implementation builds on the Robotic Operating System (ROS-Melodic). 
