@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/72771247/141846766-b9259b59-35bd-4b84-
 
 This implementation builds on the Robotic Operating System (ROS-Melodic). 
 
-* [Grid Map](https://github.com/ANYbotics/grid_map) (grid map library for mobile robots)
+* [Elevation Mapping](https://github.com/ANYbotics/elevation_mapping) (robot centric elevation map)
 * ARL Unity Simulator              
 
 # Environment
