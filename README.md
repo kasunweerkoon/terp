@@ -84,15 +84,16 @@ rosrun terp main_ddpg.py
 ```
 
 # TERP Paper
-Thank you for citing our [TERP](https://arxiv.org/pdf/2109.05120.pdf) paper if you use any of this code:
+Thank you for citing our [TERP](https://ieeexplore.ieee.org/document/9812238) paper if you use any of this code:
 
 ```
-@misc{weerakoon2021terp,
-      title={TERP: Reliable Planning in Uneven Outdoor Environments using Deep Reinforcement Learning}, 
-      author={Kasun Weerakoon and Adarsh Jagan Sathyamoorthy and Utsav Patel and Dinesh Manocha},
-      year={2021},
-      eprint={2109.05120},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
-}
+@INPROCEEDINGS{9812238,
+  author={Weerakoon, Kasun and Sathyamoorthy, Adarsh Jagan and Patel, Utsav and Manocha, Dinesh},
+  booktitle={2022 International Conference on Robotics and Automation (ICRA)}, 
+  title={TERP: Reliable Planning in Uneven Outdoor Environments using Deep Reinforcement Learning}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={9447-9453},
+  doi={10.1109/ICRA46639.2022.9812238}}
 ```
